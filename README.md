@@ -34,9 +34,9 @@ UFMDet Object Detection Demos
   <img src="demos/river-road/9b2dd37e8c404baa94f50db87049719b.jpeg" width="32%" />
   <img src="demos/river-road/3923.jpg_wh860.jpg" width="32%" />
 
-  <img src="demos/dota1.5-10terms/patches_P0000_84_0.jpg" width="30%" />
-  <img src="demos/dota1.5-10terms/patches_P1067_1_0.jpg" width="30%" />
-  <img src="demos/dota1.5-10terms/patches_P0064_116_0.jpg" width="30%" />
+  <img src="demos/dota1.5-10terms/patches_P0000_84_0.jpg" width="32%" />
+  <img src="demos/dota1.5-10terms/patches_P1067_1_0.jpg" width="32%" />
+  <img src="demos/dota1.5-10terms/patches_P0064_116_0.jpg" width="32%" />
 </div>
 <div align="center">
   <img src="demos/cityscapes/4.4ld.png" width="48%" />
