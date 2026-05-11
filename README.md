@@ -27,12 +27,12 @@ UFMDet Object Detection Demos
   <img src="demos/coco2017/000000014226.jpg" width="30%" />
   <img src="demos/coco2017/000000016451.jpg" width="30%" />
 
-  <img src="demos/river-road/4lF7x2pBMz2NppLSRS8hzvwa7.jpg" width="33%" />
-  <img src="demos/river-road/5ad136356a524126bd7eb5e93c34881c.png" width="33%" />
-  <img src="demos/river-road/true (1).jpg" width="33%" />
-  <img src="demos/river-road/validation_11.jpg" width="33%" />
-  <img src="demos/river-road/9b2dd37e8c404baa94f50db87049719b.jpeg" width="33%" />
-  <img src="demos/river-road/3923.jpg_wh860.jpg" width="33%" />
+  <img src="demos/river-road/4lF7x2pBMz2NppLSRS8hzvwa7.jpg" width="32%" />
+  <img src="demos/river-road/5ad136356a524126bd7eb5e93c34881c.png" width="32%" />
+  <img src="demos/river-road/true (1).jpg" width="32%" />
+  <img src="demos/river-road/validation_11.jpg" width="32%" />
+  <img src="demos/river-road/9b2dd37e8c404baa94f50db87049719b.jpeg" width="32%" />
+  <img src="demos/river-road/3923.jpg_wh860.jpg" width="32%" />
 
   <img src="demos/dota1.5-10terms/patches_P0000_84_0.jpg" width="30%" />
   <img src="demos/dota1.5-10terms/patches_P1067_1_0.jpg" width="30%" />
