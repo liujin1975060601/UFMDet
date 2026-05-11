@@ -25,6 +25,13 @@ yolo-ft Object Detection Demos
 ![Image description](demos/coco2017/000000013729.jpg)
 ![Image description](demos/coco2017/000000014226.jpg)
 ![Image description](demos/snake/0c4d7639d4d9e53667390b10b1136fd1_ftn.png)
+![Image description](demos/river-road/4lF7x2pBMz2NppLSRS8hzvwa7.jpg)
+![Image description](demos/river-road/5ad136356a524126bd7eb5e93c34881c.png)
+![Image description](demos/river-road/true (1).jpg)
+![Image description](demos/river-road/validation_11.jpg)
+![Image description](demos/cityscapes/frankfurt_000000_020880_ftn.png)
+![Image description](demos/cityscapes/munster_000135_000019_ftn.png)
+
 ![Image description](demos/dota1.5/P0007_2_0.jpg)
 ![Image description](demos/dota1.5/P0128_8_0.jpg)
 ![Image description](demos/dota1.5-10terms/patches_P0000_84_0.jpg)
