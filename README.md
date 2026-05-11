@@ -39,13 +39,13 @@ UFMDet Object Detection Demos
   <img src="demos/dota1.5-10terms/patches_P0064_116_0.jpg" width="30%" />
 </div>
 <div align="center">
-  <img src="demos/cityscapes/4.4ld.png" width="45%" />
-  <img src="demos/cityscapes/4.4ru.png" width="45%" />
+  <img src="demos/cityscapes/4.4ld.png" width="48%" />
+  <img src="demos/cityscapes/4.4ru.png" width="48%" />
 </div>
 snake from 2nd to 16-th fourior order
 <div align="center">
-  <img src="demos/snake/0c4d7639d4d9e53667390b10b1136fd1_ftn.png" width="98%" />
-  <img src="demos/snake/0d6756b1e72bd55b3133f0eee3dfe401_ftn.png" width="98%" />
+  <img src="demos/snake/0c4d7639d4d9e53667390b10b1136fd1_ftn.png" width="48%" />
+  <img src="demos/snake/0d6756b1e72bd55b3133f0eee3dfe401_ftn.png" width="48%" />
 </div>
 
 ### Inference Visualization
