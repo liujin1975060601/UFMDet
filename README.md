@@ -25,7 +25,7 @@ UFMDet Object Detection Demos
 <div align="center">
   <img src="demos/coco2017/000000013729.jpg" width="32%" />
   <img src="demos/coco2017/000000014226.jpg" width="32%" />
-  <img src="demos/coco2017/000000016451.jpg" width="28%" />
+  <img src="demos/coco2017/000000016451.jpg" width="25%" />
 
   <img src="demos/river-road/4lF7x2pBMz2NppLSRS8hzvwa7.jpg" width="32%" />
   <img src="demos/river-road/5ad136356a524126bd7eb5e93c34881c.png" width="32%" />
