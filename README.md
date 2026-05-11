@@ -3,7 +3,7 @@ UFMDet is a Fourier series-based object detection model, designed to detect obje
 
 The key idea is to represent closed-shape and line-like objects within a single model, where line-like structures are treated as a constrained degenerate case of closed Fourier curves. As a result, UFMDet can simultaneously detect blob-like and line-like objects within a single image using a unified representation and prediction pipeline. To address parameterization ambiguity, we introduce an equivalence-aware alignment strategy that resolves traversal direction, phase shifts, and endpoint ordering, enabling supervision in the equivalence space and improving optimization stability.
 
-Paper information:
+Paper submition information:
 ```bibtex
 @article{FourierDetByJinLiu,
     author  = "Jin Liu; Huan Li; Zhenfeng Shao",
@@ -52,21 +52,7 @@ Below is a video demonstration of the model inference on the COCO 2017 dataset:
 </video>
 
 The UFMDet model supports the following four datasets:
-coco2017
-cityscapes
-isAID
-mstar
-Chikusei
-Landslide
-snake
-river+road
-river_lines
-remote_curves
-dota1.5
-hrsc2016
-UCAS
-infared
-TuSimple
+coco2017,cityscapes,isAID,mstar,Chikusei,Landslide,snake,river+road,river_lines,remote_curves,dota1.5,hrsc2016,UCAS,infared,TuSimple
 
 ### Instructions
 - `train.py` starts training  
