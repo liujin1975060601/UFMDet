@@ -5,7 +5,7 @@ The key idea is to represent closed-shape and line-like objects within a single 
 
 Paper submition information:
 ```bibtex
-@article{FourierDetByJinLiu,
+@article{UFMDetbyLiujin,
     author  = "Jin Liu; Huan Li; Zhenfeng Shao",
     title   = "UFMDet: Unified Fourier Multi-shape Detection for Blobs and Lines in Natural Scenes",
     year    = "January 9, 2026",
