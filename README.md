@@ -24,6 +24,7 @@ Repository Upload Date: January 2026.5.11
 yolo-ft Object Detection Demos
 ![Image description](demos/coco2017/000000013729.jpg)
 ![Image description](demos/coco2017/000000014226.jpg)
+![Image description](demos/snake/0c4d7639d4d9e53667390b10b1136fd1_ftn.png)
 ![Image description](demos/dota1.5/P0007_2_0.jpg)
 ![Image description](demos/dota1.5/P0128_8_0.jpg)
 ![Image description](demos/dota1.5-10terms/patches_P0000_84_0.jpg)
