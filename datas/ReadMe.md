@@ -43,10 +43,10 @@ A remote sensing simulation curve object dataset consisting of four categories:
 
 The dataset is organized as follows:
 
--/images/xxx.jpg (or .png, .bmp, .tif)
--/labels/xxx.pol (corresponding to /images/xxx.jpg)
--names.txt (class name list, starting from 0)
--mask_line.txt (subset of line-like objects, should contain class names from names.txt)
+- /images/xxx.jpg (or .png, .bmp, .tif)
+- /labels/xxx.pol (corresponding to /images/xxx.jpg)
+- names.txt (class name list, starting from 0)
+- mask_line.txt (subset of line-like objects, should contain class names from names.txt)
 
 ### Label File Format: `/labels/xxx.pol`
 
