@@ -18,12 +18,16 @@ Consists of four categories: road side, river side, lake, and power line. Among 
 - `river_side`
 - `lake`
 - `ele_line`
-<img src="demos/river-road/4lF7x2pBMz2NppLSRS8hzvwa7.jpg" width="32%" />
+<div align="center">
+  <img src="demos/river-road/4lF7x2pBMz2NppLSRS8hzvwa7.jpg" width="32%" />
+</div>
 
 ## 3. snake.zip
 Only one category: `snake`
 - `snake`
-<img src="demos/snake/0c4d7639d4d9e53667390b10b1136fd1_ftn.png" width="48%" />
+<div align="center">
+  <img src="demos/snake/0c4d7639d4d9e53667390b10b1136fd1_ftn.png" width="48%" />
+</div>
 
 ## 4. remote_curves2.0
 A remote sensing simulation curve object dataset consisting of four categories:
