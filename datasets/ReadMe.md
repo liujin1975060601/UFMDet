@@ -5,10 +5,20 @@ We propose UFMDet, a Unified Fourier-based Framework that formulates arbitrary-s
 Four linear datasets (parts) are provided for download.
 
 <div align="center">
-  <img src="./road_lines.jpg" width="23%" />
-  <img src="./river_road.jpg" width="23%" />
-  <img src="./snake.jpg" width="23%" />
-  <img src="./remote_curves.jpg" width="23%" />
+  <table>
+    <tr>
+      <td><img src="./road_lines.jpg" width="95%"/></td>
+      <td><img src="./river_road.jpg" width="95%"/></td>
+      <td><img src="./snake.jpg" width="95%"/></td>
+      <td><img src="./remote_curves.jpg" width="95%"/></td>
+    </tr>
+    <tr>
+      <td align="center">road_lines</td>
+      <td align="center">river_road</td>
+      <td align="center">snake</td>
+      <td align="center">remote_curves2.0</td>
+    </tr>
+  </table>
 </div>
 
 ## 1. road_lines
