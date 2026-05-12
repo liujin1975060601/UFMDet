@@ -8,7 +8,7 @@ Four linear datasets (parts) are provided for download.
   <table>
     <tr>
       <td align="center"><img src="./road_lines.jpg" width="220px" /><br>road_lines</td>
-      <td align="center"><img src="./river_road.jpg" width="220px" /><br>river_road</td>
+      <td align="center"><img src="./river_road.jpg" width="220px" /><br>road+river</td>
       <td align="center"><img src="./snake.jpg" width="220px" /><br>snake</td>
       <td align="center"><img src="./remote_curves.jpg" width="220px" /><br>remote_curves2.0</td>
     </tr>
@@ -23,7 +23,7 @@ A road line dataset consisting of four categories: left driving line, right driv
 - `left_road`
 - `right_road`
 
-## 2. river_road
+## 2. road+river
 Consists of four categories: road side, river side, lake, and power line. Among them, only `ele_line` is a closed-shape (blob-like) object; the others are line-like objects.
 - `road_side`
 - `river_side`
