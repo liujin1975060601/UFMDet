@@ -2,7 +2,7 @@ We propose UFMDet, a Unified Fourier-based Framework that formulates arbitrary-s
 
 # Dataset Description
 
-Four datasets (parts) are provided for download.
+Four linear datasets (parts) are provided for download.
 
 ## 1. road_lines
 
