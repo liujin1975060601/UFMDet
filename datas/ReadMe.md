@@ -44,16 +44,15 @@ A remote sensing simulation curve object dataset consisting of four categories:
 The dataset is organized as follows:
 
 /images/xxx.jpg (or .png, .bmp, .tif)
-/labels/xxx.txt (corresponding to /images/xxx.jpg)
+/labels/xxx.pol (corresponding to /images/xxx.jpg)
 names.txt (class name list, starting from 0)
 mask_line.txt (subset of line-like objects, should contain class names from names.txt)
 
-### Label File Format: `/labels/xxx.txt`
+### Label File Format: `/labels/xxx.pol`
 
 Each line corresponds to one object (which can be either closed‑shape or line‑like).  
 Each line follows the format:
 cls x_0 y_0 x_1 y_1 x_2 y_2 ...... x_{n-1} y_{n-1}
-
 
 - `cls` is the zero‑based class index corresponding to the class name in `names.txt`.
 - If the object is a **closed‑shape** object (i.e., not listed in `mask_line.txt`), the coordinate sequence `(x_0 y_0 x_1 y_1 ... x_{n-1} y_{n-1})` represents a **closed polygon chain** that encloses the object.
