@@ -8,9 +8,9 @@ Four linear datasets (parts) are provided for download.
   <table>
     <tr>
       <td align="center"><img src="./road_lines.jpg" width="220px" /><br>road_lines</td>
-      <td align="center"><img src="./river_road.jpg" width="220px" /><br>road+river</td>
+      <td align="center"><img src="./river_road.jpg" width="260px" /><br>road+river</td>
       <td align="center"><img src="./snake.jpg" width="220px" /><br>snake</td>
-      <td align="center"><img src="./remote_curves.jpg" width="220px" /><br>remote_curves2.0</td>
+      <td align="center"><img src="./remote_curves.jpg" width="200px" /><br>remote_curves2.0</td>
     </tr>
   </table>
 </div>
