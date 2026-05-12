@@ -7,31 +7,26 @@ Four linear datasets (parts) are provided for download.
 ## 1. road_lines
 
 A road line dataset consisting of four categories: left driving line, right driving line, left roadside line, right roadside line.
-
 - `left`
 - `right`
 - `left_road`
 - `right_road`
 
 ## 2. road+river_2.0
-
 Consists of four categories: road side, river side, lake, and power line. Among them, only `ele_line` is a closed-shape (blob-like) object; the others are line-like objects.
-
 - `road_side`
 - `river_side`
 - `lake`
 - `ele_line`
+<img src="demos/river-road/4lF7x2pBMz2NppLSRS8hzvwa7.jpg" width="32%" />
 
 ## 3. snake.zip
-
 Only one category: `snake`
-
 - `snake`
+<img src="demos/snake/0c4d7639d4d9e53667390b10b1136fd1_ftn.png" width="48%" />
 
 ## 4. remote_curves2.0
-
 A remote sensing simulation curve object dataset consisting of four categories:
-
 - `parabola`
 - `s_curve`
 - `hyperbola`
