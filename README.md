@@ -50,8 +50,8 @@ snake from 2nd to 16-th fourior order
 
 Dynamic Operation Demonstration of Object Fourier Harmonic Circles
 <div align="center">
-  <img src="demos/fourior-circles/harbor.gif" width="28%" />
-  <img src="demos/fourior-circles/plane.gif" width="28%" />
+  <img src="demos/fourior-circles/harbor.gif" width="24%" />
+  <img src="demos/fourior-circles/plane.gif" width="38%" />
 </div>
 
 ### Inference Visualization
