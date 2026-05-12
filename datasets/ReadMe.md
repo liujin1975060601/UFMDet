@@ -8,8 +8,8 @@ Four linear datasets (parts) are provided for download.
   <table>
     <tr>
       <td><img src="./road_lines.jpg" width="95%"/></td>
-      <td><img src="./river_road.jpg" width="95%"/></td>
-      <td><img src="./snake.jpg" width="95%"/></td>
+      <td><img src="./river_road.jpg" width="75%"/></td>
+      <td><img src="./snake.jpg" width="155%"/></td>
       <td><img src="./remote_curves.jpg" width="95%"/></td>
     </tr>
     <tr>
