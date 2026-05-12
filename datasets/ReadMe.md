@@ -16,7 +16,7 @@ Four linear datasets (parts) are provided for download.
       <td align="center">road_lines</td>
       <td align="center">river_road</td>
       <td align="center">snake</td>
-      <td align="center">remote_curves2.0</td>
+      <td align="center">remote_curves</td>
     </tr>
   </table>
 </div>
