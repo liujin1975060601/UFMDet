@@ -7,16 +7,10 @@ Four linear datasets (parts) are provided for download.
 <div align="center">
   <table>
     <tr>
-      <td><img src="./road_lines.jpg" width="95%"/></td>
-      <td><img src="./river_road.jpg" width="75%"/></td>
-      <td><img src="./snake.jpg" width="155%"/></td>
-      <td><img src="./remote_curves.jpg" width="95%"/></td>
-    </tr>
-    <tr>
-      <td align="center">road_lines</td>
-      <td align="center">river_road</td>
-      <td align="center">snake</td>
-      <td align="center">remote_curves</td>
+      <td align="center"><img src="./road_lines.jpg" width="220px" /><br>road_lines</td>
+      <td align="center"><img src="./river_road.jpg" width="220px" /><br>river_road</td>
+      <td align="center"><img src="./snake.jpg" width="220px" /><br>snake</td>
+      <td align="center"><img src="./remote_curves.jpg" width="220px" /><br>remote_curves2.0</td>
     </tr>
   </table>
 </div>
