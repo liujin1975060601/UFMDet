@@ -1,4 +1,4 @@
-We propose \textbf{UFMDet}, a unified Fourier-based framework that formulates arbitrary-shaped object detection as continuous curve regression in a shared frequency-domain space. The key idea is to represent closed-shape and line-like objects within a single model, where line-like structures are treated as a constrained degenerate case of closed Fourier curves. As a result, UFMDet can simultaneously detect blob-like and line-like objects within a single image using a unified representation and prediction pipeline.
+We propose UFMDet, a Unified Fourier-based Framework that formulates arbitrary-shaped object detection as continuous curve regression in a shared frequency-domain space. The key idea is to represent closed-shape and line-like objects within a single model, where line-like structures are treated as a constrained degenerate case of closed Fourier curves. As a result, UFMDet can simultaneously detect blob-like and line-like objects within a single image using a unified representation and prediction pipeline.
 
 # Dataset Description
 
