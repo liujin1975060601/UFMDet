@@ -66,7 +66,8 @@ Below is a video demonstration of the model inference on the COCO 2017 dataset:
 </video>
 
 The UFMDet model supports the following four datasets:
-coco2017,cityscapes,isAID,mstar,Chikusei,Landslide,snake,river+road,river_lines,remote_curves,dota1.5,hrsc2016,UCAS,infared,TuSimple
+coco2017,cityscapes,isAID,mstar,Chikusei,Landslide,dota1.5,hrsc2016,UCAS,infared,
+snake,river+road,road_lines,remote_curves,TuSimple
 
 ### Instructions
 - `train.py` starts training  
