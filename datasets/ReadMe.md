@@ -30,7 +30,7 @@ Consists of four categories: road side, river side, lake, and power line. Among 
 - `lake`
 - `ele_line`
 
-## 3. snake.zip
+## 3. snake
 Only one category: `snake`
 - `snake`
 
