@@ -65,7 +65,7 @@ Below is a video demonstration of the model inference on the COCO 2017 dataset:
 点击链接播放演示视频，请<a href="https://liujin1975060601.github.io/yolov5-ft/demos/videos/road-cars-s_20250205_23160389_20250205_23205007.mp4">点击这里播放视频</a>。
 </video>
 
-The UFMDet model supports the following four datasets:
+The UFMDet model supports more than 20 datasets, including:
 coco2017,cityscapes,isAID,mstar,Chikusei,Landslide,dota1.5,hrsc2016,UCAS,infared,
 snake,road+river,road_lines,remote_curves,TuSimple
 
